@@ -12,13 +12,6 @@ Run locally:
 
 1. Open `index.html` directly in a browser, or serve via a simple HTTP server:
 
-```bash
-# Python 3
-python -m http.server 8000
-
-# or using http-server (npm)
-npx http-server -c-1
-```
 
 2. Visit `http://localhost:8000` and try adding products to the cart.
 
